@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "brahmat2.1.js",
+  "scripts": {
+    "start": "nodemon brahmat2.1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
